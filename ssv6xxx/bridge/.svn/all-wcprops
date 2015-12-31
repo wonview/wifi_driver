@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/bridge
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/bridge/debug.c
+END
+sdiobridge_pub.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/bridge/sdiobridge_pub.h
+END
+aaa.mk
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/bridge/aaa.mk
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/bridge/debug.h
+END
+sdiobridge.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/bridge/sdiobridge.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/bridge/Makefile
+END
+make.log
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/bridge/make.log
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/bridge/Kconfig
+END
+sdiobridge.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/bridge/sdiobridge.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include
+END
+cabrio.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include/cabrio.h
+END
+ssv6200_aux.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include/ssv6200_aux.h
+END
+ssv6200_reg.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include/ssv6200_reg.h
+END
+ssv_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include/ssv_version.h
+END
+ssv6200.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include/ssv6200.h
+END
+ssv6200_reg_sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include/ssv6200_reg_sim.h
+END
+ssv6200_configuration.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include/ssv6200_configuration.h
+END
+ssv_cfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include/ssv_cfg.h
+END
+ssv6200_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include/ssv6200_common.h
+END
+ssv_conf_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/include/ssv_conf_parser.h
+END

@@ -1,0 +1,33 @@
+K 10
+svn:ignore
+V 410
+.init.o.cmd
+.dev.o.cmd
+.ssv_ht_rc.o.cmd
+.lib.o.cmd
+.ssv_rc.o.cmd
+.ap.o.cmd
+.ssv6xxx_debugfs.o.cmd
+.sec_tkip.o.cmd
+.sec_ccmp.o.cmd
+.ampdu.o.cmd
+.sec_wep.o.cmd
+.efuse.o.cmd
+.p2p.o.cmd
+.wapi_sms4.o.cmd
+.ssv6200s_core.mod.o.cmd
+.sec_wpi.o.cmd
+.ssv6200s_core.o.cmd
+.ssv6200s_core.ko.cmd
+.init.o.d
+.dev.o.d
+.dev.o.tmp
+.30411.tmp
+.tmp_init.ver
+.ssv6200s_core.mod.o.tmp
+.sec_wep.o.tmp
+.30201.tmp
+.25888.tmp
+.20762.tmp
+
+END

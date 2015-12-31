@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/crypto
+END
+aes_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/crypto/aes_glue.c
+END
+sha1_glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/crypto/sha1_glue.c
+END
+sha1-armv4-large.S
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/crypto/sha1-armv4-large.S
+END
+aes-armv4.S
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/crypto/aes-armv4.S
+END

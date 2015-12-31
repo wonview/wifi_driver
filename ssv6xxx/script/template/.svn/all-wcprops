@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/script/template
+END
+hostapd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/script/template/hostapd.conf
+END
+load_dhcp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/script/template/load_dhcp.sh
+END

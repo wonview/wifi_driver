@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/software/!svn/ver/9609/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx
+END
+ap_launch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ap_launch.sh
+END
+ap_shutdown.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ap_shutdown.sh
+END
+ap_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ap_check.sh
+END
+cli
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/cli
+END
+launch_sta_ap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/launch_sta_ap.sh
+END
+config.mak
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/config.mak
+END
+Kconfig
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/Kconfig
+END
+calib_bin_enable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/calib_bin_enable.sh
+END
+ver_info.pl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ver_info.pl
+END
+calib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/calib.sh
+END
+Makefile.cross_linux
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/Makefile.cross_linux
+END
+genconf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/genconf.sh
+END
+Options.of.Test.Cases.docm
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/Options.of.Test.Cases.docm
+END
+unload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/unload.sh
+END
+Makefile.android
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/Makefile.android
+END
+ap.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ap.cfg
+END
+ssvcfg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ssvcfg.sh
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/build.sh
+END
+launch_ap_sta.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/launch_ap_sta.sh
+END
+kmsg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/kmsg.sh
+END
+cal.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/cal.txt
+END
+wpa_supplicant.conf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/wpa_supplicant.conf
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/Makefile
+END
+remove_old_driver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/remove_old_driver.sh
+END
+sta.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/sta.cfg
+END
+android-build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/android-build.sh
+END
+config.mak.6051Q
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/config.mak.6051Q
+END
+load.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/load.sh
+END
+parser-conf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/parser-conf.sh
+END
+clean_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/clean_log.sh
+END
+config.mak.6051Z
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/config.mak.6051Z
+END
+rules.mak
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/rules.mak
+END

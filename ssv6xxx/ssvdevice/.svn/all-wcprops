@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ssvdevice
+END
+ssv_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ssvdevice/ssv_cmd.h
+END
+backup
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ssvdevice/backup
+END
+ssvdevice.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ssvdevice/ssvdevice.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ssvdevice/Makefile
+END
+ssv_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/ssvdevice/ssv_cmd.c
+END

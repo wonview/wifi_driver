@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms
+END
+a33-wifi.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/a33-wifi.cfg
+END
+a33-generic-wlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/a33-generic-wlan.c
+END
+a33.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/a33.cfg
+END
+rk3128-generic-wlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/rk3128-generic-wlan.c
+END
+rk3128-wifi.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/rk3128-wifi.cfg
+END
+rk3128.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/rk3128.cfg
+END
+platform-config.mak
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/platform-config.mak
+END
+aml-s805-wifi.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/aml-s805-wifi.cfg
+END
+aml-s805-generic-wlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/aml-s805-generic-wlan.c
+END
+h3-wifi.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/h3-wifi.cfg
+END
+h3-generic-wlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/h3-generic-wlan.c
+END
+aml-s805.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/aml-s805.cfg
+END
+cli
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/cli
+END
+h3.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/h3.cfg
+END
+atm7029-action-wifi.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/atm7029-action-wifi.cfg
+END
+atm7029-action-generic-wlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/atm7029-action-generic-wlan.c
+END
+h8-wifi.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/h8-wifi.cfg
+END
+h8-generic-wlan.c
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/h8-generic-wlan.c
+END
+atm7029-action.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/atm7029-action.cfg
+END
+h8.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/platforms/h8.cfg
+END

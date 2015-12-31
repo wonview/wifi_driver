@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 151
+.ssv_hci.o.d
+.tmp_ssv_hci.ver
+.ssv6200_hci.mod.o.cmd
+.ssv6200_hci.ko.cmd
+.ssv6200_hci.o.cmd
+.ssv_hci.o.cmd
+.26605.tmp
+.24504.tmp
+.18492.tmp
+.29364.tmp
+
+END

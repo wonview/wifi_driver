@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/hci
+END
+ssv_hci.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/hci/ssv_hci.c
+END
+hctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/hci/hctrl.h
+END
+ssv_hci.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/hci/ssv_hci.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/software/!svn/ver/9589/project/release/android/tablet/a33/along/5.1/6051.Q0.1008.03.211301/ssv6xxx/hci/Makefile
+END
